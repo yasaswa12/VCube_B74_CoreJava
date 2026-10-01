@@ -37,7 +37,7 @@ public class ShallowCopyDemo1 {
 		System.out.println("********************************");
 		
 		Student1 st2=(Student1)st1.clone();
-		
+	
 		st2.address.city="Hyderabad";
 		System.out.println(st1.sid);
 		System.out.println(st1.sname);
