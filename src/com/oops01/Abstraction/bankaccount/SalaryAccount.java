@@ -1,4 +1,4 @@
-package com.oops01.Abstraction;
+package com.oops01.Abstraction.bankaccount;
 
 public class SalaryAccount implements BankAccount {
 

@@ -1,4 +1,4 @@
-package com.oops01.Abstraction;
+package com.oops01.Abstraction.bankaccount;
 
 public abstract interface BankAccount {
 	public static final String BANK_NAME="Yasaswa Bank";
